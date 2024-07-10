@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import FacebookLogin from "react-facebook-login";
+import FacebookLogin from "@greatsumini/react-facebook-login";
 import axios from "axios";
 
 const App = () => {
